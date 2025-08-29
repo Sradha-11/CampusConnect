@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="announcementsTextView" type="id" />
+    <item name="welcomeText" type="id" />
+    <item name="rvEvents" type="id" />
+    <item name="libraryTextView" type="id" />
+    <item name="lostFoundTextView" type="id" />
+    <item name="noticesTextView" type="id" />
+    <item name="scheduleTextView" type="id" />
+    <item name="TextView" type="id" />
+    <item name="teachersTextView" type="id" />
+    <item name="eventName" type="id" />
+</resources>

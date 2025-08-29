@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:id="@+id/edtSubjectShort"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject Short (e.g. OS)"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edtSubjectName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/edtFacultyName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Faculty Name"
+        android:inputType="textPersonName" />
+
+</LinearLayout>
